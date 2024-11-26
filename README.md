@@ -2,7 +2,7 @@ Optimizing code, one algorithm at a time.
 
 <br/>
 
-- 🌱 I’m currently learning Python, JavaScript, Rust, node.js, dotnet, REST APIs
+- 🌱 I’m currently learning Python, JavaScript, node.js, dotnet, REST APIs
 
 <br/>
 
